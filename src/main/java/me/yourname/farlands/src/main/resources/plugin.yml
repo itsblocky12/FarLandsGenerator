@@ -1,1 +1,5 @@
+name: FarLandsGenerator
+version: 1.0
+main: me.yourname.farlands.FarLandsPlugin
+api-version: 1.21
 
