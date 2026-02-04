@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class FarLandsChunkGenerator extends ChunkGenerator {
 
-    private static final int FARLANDS_START = 12_550_000;
+    private static final int FARLANDS_START = 30_000;
 
     @Override
     public void generateNoise(
